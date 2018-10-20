@@ -431,7 +431,7 @@ Comments
 ============================= */
 
 #comments{
-  background-image: url(../img/parallax/1.jpg);
+  background-image: url(../img/parallax/9.jpg);
 }
 #comments{
   background-image: url(../img/parallax/7.jpg);
@@ -530,3 +530,17 @@ body{
   line-height: 1.8em;
 }
 
+
+.banner {
+    padding: 100px 0;
+    color: #f8f8f8;
+    background: url(../img/parallax/7.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.banner1 {
+    padding: 100px 0;
+    color: #f8f8f8;
+    background: url(../img/bg-banner06.jpg) no-repeat center center;
+    background-size: cover;
+}
